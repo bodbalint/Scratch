@@ -1,4 +1,4 @@
 # Scratch játék
 
-Egyszerű játék, ahol a macskát kell irányítani a nyilakkal és meg kell enni a halakat. Minden hal 1 pontot ér.
-20 másodperc alatt minél többet kell megenni. 
+Egyszerű játék, ahol a macskát irányítod a nyilakkal és 20 másodperc alatt minél több halat kell megenni. Minden hal 1 pontot ér.
+ 
